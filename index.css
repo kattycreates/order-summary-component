@@ -167,6 +167,7 @@ footer{
     }
     .card{
         width: 24em;
+        transform: scale(1);
     }
     .card-body,.plan-body,button{
         width: 92%;
